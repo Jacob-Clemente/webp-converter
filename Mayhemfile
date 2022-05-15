@@ -1,4 +1,4 @@
-project: jacob-clemente/webp-converter
+project: webp-converter
 target: webpinfo
 
 cmds:
